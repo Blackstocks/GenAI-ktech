@@ -8,6 +8,7 @@ fastapi==0.136.3
 filelock==3.29.2
 fsspec==2026.4.0
 grpcio==1.81.1
+grpcio-tools==1.81.1
 h11==0.16.0
 h2==4.3.0
 hf-xet==1.5.1
@@ -29,8 +30,8 @@ networkx==3.6.1
 numpy==2.4.6
 openai==2.41.1
 packaging==26.2
-portalocker==3.2.0
-protobuf==7.35.1
+portalocker==2.10.1
+protobuf==6.33.6
 pydantic==2.13.4
 pydantic_core==2.46.4
 Pygments==2.20.0
@@ -38,7 +39,7 @@ pypdf==6.13.1
 python-dotenv==1.2.2
 python-multipart==0.0.32
 PyYAML==6.0.3
-qdrant-client==1.18.0
+qdrant-client==1.7.3
 regex==2026.5.9
 rich==15.0.0
 safetensors==0.8.0
